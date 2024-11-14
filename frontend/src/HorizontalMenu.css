@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .horizontal-menu {
+    list-style-type: none;
+    display: flex; /* Align items horizontally */
+    justify-content: center; /* Center the menu items */
+    background-color: #333;
+    padding: 10px 0;
+  }
+  
+  .horizontal-menu li {
+    margin: 0 15px;
+  }
+  
+  .horizontal-menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .horizontal-menu a:hover {
+    background-color: #555;
+    border-radius: 5px;
+  }
+
+  .large-div {
+    width: 1024px;
+    height: 600px;
+    background-color: lightcoral;
+  }
