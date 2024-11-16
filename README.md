@@ -4,12 +4,14 @@ Language Learning Portal
 The Language Learning Portal is a web application designed to help users learn new languages through courses, quizzes, and progress tracking. It is built using a microservice architecture with a Node.js backend and a React.js frontend.
 
 **Features**
+
 User authentication (registration, login, password )
 Course browsing and enrollment
 Interactive quizzes and exercises
 User progress tracking
 
 **Tech Stack**
+
 Frontend:
 React.js
 React Router
@@ -36,6 +38,7 @@ language-learning-portal/
 **Getting Started**
 
 **Prerequisites**
+
 Node.js (v16+)
 MySQL Server
 npm or yarn
@@ -51,8 +54,8 @@ Install dependencies: npm install
 Start development server: npm start
 Access the application at http://localhost:3000
 
-Language Learning Portal
 **Overview**
+
 The Language Learning Portal is a web application designed to help users learn new languages through courses, quizzes, and progress tracking. It is built using a microservice architecture with a Node.js backend and a React.js frontend.
 
 **Features**
@@ -105,7 +108,9 @@ cd language-learning-portal
 Backend Configuration:
 Navigate to the backend directory:
 cd backend
-Install dependencies:
+
+**Install dependencies:**
+
 npm install
 PORT=5000
 DB_HOST=localhost
