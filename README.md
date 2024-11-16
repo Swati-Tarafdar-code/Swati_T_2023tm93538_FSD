@@ -77,24 +77,6 @@ Start development server: npm start
 Access the application at http://localhost:3000
 
 
-**Overview**
-
-The Language Learning Portal is a web application designed to help users learn new languages through courses, quizzes, and progress tracking. It is built using a microservice architecture with a Node.js backend and a React.js frontend.
-
-**Features**
-
-User authentication (registration, login, password reset)
-
-Course browsing and enrollment
-
-Interactive quizzes and exercises
-
-User progress tracking
-
-Admin dashboard for course management
-
-**Tech Stack**
-
 **Frontend:**
 
 React.js
@@ -114,25 +96,7 @@ REST API
 Database:
 MySQL (SQL Server for production)
 
-**Project Structure**
 
-language-learning-portal/
-├── backend/               # Backend code
-│   ├── routes/            # API routes
-│   ├── models/            # Database models
-│   ├── controllers/       # Business logic
-│   ├── utils/             # Utility functions (e.g., email, token generation)
-│   ├── .env               # Environment variables
-│   └── server.js          # Backend entry point
-├── frontend/              # Frontend code
-│   ├── src/
-│   │   ├── components/    # React components
-│   │   ├── pages/         # Page components
-│   │   ├── App.js         # React app entry
-│   │   └── index.js       # Main entry file
-│   └── public/
-├── README.md              # Documentation
-└── package.json           # Dependencies
 **Getting Started
 Prerequisites**
 
