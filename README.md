@@ -12,15 +12,22 @@ User progress tracking
 
 **Tech Stack**
 
-Frontend:
-React.js
+Frontend:React.js
+
 React Router
+
 Axios
+
 Backend:
+
 Node.js
+
 Express.js
+
 REST API
+
 Database:
+
 MySQL 
 
 language-learning-portal/
